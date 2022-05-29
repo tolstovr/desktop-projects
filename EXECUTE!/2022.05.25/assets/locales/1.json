@@ -1,0 +1,55 @@
+{
+    "title":"english",
+    "menu":{
+        "start_btn":"Start",
+        "about_btn":"About",
+        "quit_btn":"Exit",
+        "true_quit_btn":"Stay here :)",
+        "theme_btn":"Theme",
+        "lang_btn":"Language",
+        "sound_btn":"Sound"
+    },
+    "about":{
+        "title":"Application",
+        "back_btn":"Back",
+        "dev":"Developer: {}",
+        "gfx":"UI-Design: {}",
+        "sfx":"Soundtrack: {}",
+        "ide":"Idea: {}"
+    },
+    "choose":{
+        "title":"Choose the test",
+        "dir_btn":"Open folder",
+        "sel_btn":"Select"
+    },
+    "main":{
+        "question":"{}. {}",
+        "answer":"Your answer:",
+        "send_btn":"Send",
+        "passed":"Current result:\n{}/{}",
+        "res_msg_box":"Result: {}/{}.\nPersentage: {}%.\nRecomended mark: {}\nComment: {}",
+        "ask_msg_box":"Are you sure to want to stop testing?"
+    },
+    "achievements":{
+        "title":"New achievement!",
+        "achievement_made":"Achievement made",
+        "first_test_passed":"One step - two step",
+        "first_test_passed_max":"Cool dude",
+        "five_tests_passed":"High-five",
+        "five_tests_passed_max":"Bronze",
+        "ten_tests_passed":"Cool dude x10",
+        "ten_tests_passed_max":"Argentum",
+        "twenty_tests_passed":"-ty",
+        "twenty_tests_passed_max":"Aurum",
+        "hundred_tests_passed":"freak?",
+        "hundred_test_passed_max":"EXECUTE",
+        "theme_changed":"Multicoloured",
+        "lang_changed":"Everywhere like a duck to water",
+        "enter_on_birthday":"Bday, buddy",
+        "sound_off":"Silence, please",
+        "wrong_all_answers":"I'm not stupid, actually",
+        "social_check":"Social networker",
+        "web_check":"Webside",
+        "lorem":"LOREM IPSUM DOLORES"
+    }
+}

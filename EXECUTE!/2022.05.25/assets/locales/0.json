@@ -1,0 +1,55 @@
+{
+    "title":"русский",
+    "menu":{
+        "start_btn":"Начать",
+        "about_btn":"О приложении",
+        "quit_btn":"Выход",
+        "true_quit_btn":"Останься :)",
+        "theme_btn":"Тема",
+        "lang_btn":"Язык",
+        "sound_btn":"Звук"
+    },
+    "about":{
+        "title":"О приложении",
+        "back_btn":"В меню",
+        "dev":"Разработчик: {}",
+        "gfx":"Графический дизайн: {}",
+        "sfx":"Звуковое сопровождение: {}",
+        "ide":"Автор идеи: {}"
+    },
+    "choose":{
+        "title":"Выберите тест",
+        "dir_btn":"Открыть папку",
+        "sel_btn":"Пройти"
+    },
+    "main":{
+        "question":"{}. {}",
+        "answer":"Ответ:",
+        "send_btn":"Ответить",
+        "passed":"Предварительный результат:\n{}/{}",
+        "res_msg_box":"Результат: {}/{}.\nПроцент: {}%.\nРекомендуемая оценка: {}\nКомментарий: {}",
+        "ask_msg_box":"Вы действительно хотите закончить прохождение?"
+    },
+    "achievements":{
+        "title":"Получено новое достижение!",
+        "achievement_made":"Достижение выполнено",
+        "first_test_passed":"5 минут - полёт нормальный",
+        "first_test_passed_max":"С лёту",
+        "five_tests_passed":"Дай пять",
+        "five_tests_passed_max":"Бронзовая медаль",
+        "ten_tests_passed":"Топ-10",
+        "ten_tests_passed_max":"Серебрянная медаль",
+        "twenty_tests_passed":"Пятью четыре",
+        "twenty_tests_passed_max":"Золотая медаль",
+        "hundred_tests_passed":"Заядлый фанат",
+        "hundred_test_passed_max":"EXECUTE",
+        "theme_changed":"Тематично",
+        "lang_changed":"Полиглот",
+        "enter_on_birthday":"Пришёл на тортик?",
+        "sound_off":"И у стен есть уши",
+        "wrong_all_answers":"Век живи, век учись",
+        "social_check":"Социальная реклама",
+        "web_check":"Вебнутый",
+        "lorem":"LOREM IPSUM DOLORES"
+    }
+}
