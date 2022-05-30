@@ -1,0 +1,72 @@
+{
+    "title":"русский",
+    "menu":{
+        "labels":{
+            "good_morning":"Доброе утро",
+            "good_afternoon":"Добрый день",
+            "good_evening":"Добрый вечер",
+            "good_night":"Доброй ночи",
+            "infinity_mode":"Бесконечный режим",
+            "quick_mode":"Быстрый режим",
+            "statistics":"Статистика:\n{}:\n{}/{} (лучший - {}/{})\n{}:\n{}/{} (лучший - {}/{})"
+        },
+        "buttons":{
+            "start_button":"Начать!",
+            "about_button":"О приложении",
+            "theme_button":"Тема",
+            "lang_button":"Язык",
+            "sound_button":"Звук",
+            "quit_button":"Выход"
+        }
+    },
+    "about":{
+        "labels":{
+            "devgroup":"Объединение разработчиков",
+            "solodev":"Главный разработчик",
+            "version":"Сборка {}\nот 11.02.2022\nВсе права защищены",
+            "music":"Музыка"
+        },
+        "buttons":{
+            "vk_button":"ВК",
+            "insta_button":"Инстаграм",
+            "back_button":"В меню",
+            "donation_button":"На кофе :3"
+        }
+    },
+    "choose":{
+        "labels":{
+            "title":"Выберите режим"
+        },
+        "buttons":{
+            "infinity_button":"Бесконечный режим",
+            "quick_button":"Быстрый режим"
+        }
+    },
+    "main":{
+        "infinity":{
+            "labels":{
+                "easy":"Малышарик",
+                "aver":"Среднестатистический",
+                "pro":"Продвинутый математик",
+                "hard":"Сложно!",
+                "impossible":"НЕВОЗМОЖНО!",
+                "problem":"Пример",
+                "hardlevel":"Уровень сложности",
+                "currentlevel":"Текущий уровень",
+                "answer":"Ответ"
+            },
+            "buttons":{
+                "send_button":"Ответить"
+            }
+        },
+        "quick_mode":{
+            "labels":{
+                "result":"Результат: {}/20.\nРекомендуемая оценка: {}"
+            }
+        }
+    },
+    "warns":{
+        "askResetStats":"Вы действительно хотите сбросить статистику (порядочный срок!)",
+        "sucResetStats":"Статистика успешно сброшена. Мои соболезнования :)"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "title":"default",
+    "bgcolor":{
+        "master":"#77ccff",
+        "extra":"#4499ff"
+    },
+    "fgcolor":{
+        "master":"#000000",
+        "extra":"#222222"
+    },
+    "font":"Segoe UI"
+}

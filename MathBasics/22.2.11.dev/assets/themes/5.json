@@ -1,0 +1,12 @@
+{
+    "title":"\nnostalgy",
+    "bgcolor":{
+        "master":"powderblue",
+        "extra":"skyblue"
+    },
+    "fgcolor":{
+        "master":"#000000",
+        "extra":"#ffffff"
+    },
+    "font":"Consolas"
+}

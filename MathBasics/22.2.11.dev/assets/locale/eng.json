@@ -1,0 +1,72 @@
+{
+    "title":"english",
+    "menu":{
+        "labels":{
+            "good_morning":"Good morning",
+            "good_afternoon":"Good day",
+            "good_evening":"Good evening",
+            "good_night":"Good night",
+            "infinity_mode":"Infinity mode",
+            "quick_mode":"Quick mode",
+            "statistics":"Score:\n{}:\n{}/{} (best - {}/{})\n{}:\n{}/{} (best - {}/{})"
+        },
+        "buttons":{
+            "start_button":"Start!",
+            "about_button":"About",
+            "theme_button":"Theme",
+            "lang_button":"Lang",
+            "sound_button":"Sound",
+            "quit_button":"Quit"
+        }
+    },
+    "about":{
+        "labels":{
+            "devgroup":"Devgroup",
+            "solodev":"Teamlead",
+            "version":"Version {}\nfrom 11.02.2022\nAll rights reserved",
+            "music":"Music by"
+        },
+        "buttons":{
+            "vk_button":"VK",
+            "insta_button":"Instagram",
+            "back_button":"Back",
+            "donation_button":"Pay penny ;)"
+        }
+    },
+    "choose":{
+        "labels":{
+            "title":"Сhoose mode"
+        },
+        "buttons":{
+            "infinity_button":"Infinity mode",
+            "quick_button":"Quick mode"
+        }
+    },
+    "main":{
+        "infinity":{
+            "labels":{
+                "easy":"Babeboy",
+                "aver":"Average",
+                "pro":"Math's lover",
+                "hard":"Hard",
+                "impossible":"WHAT A HELL?!",
+                "problem":"Problem",
+                "hardlevel":"Hardness level",
+                "currentlevel":"Current level",
+                "answer":"Answer"
+            },
+            "buttons":{
+                "send_button":"Send"
+            }
+        },
+        "quick_mode":{
+            "labels":{
+                "result":"Result: {}/20.\nRecomended mark: {}"
+            }
+        }
+    },
+    "warns":{
+        "askResetStats":"Are you sure to delete all your progress? (alt. title: idiot?)",
+        "sucResetStats":"All your progress was deleted successfully! (gg)"
+    }
+}

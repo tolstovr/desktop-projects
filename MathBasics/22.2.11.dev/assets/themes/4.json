@@ -1,0 +1,12 @@
+{
+    "title":"high\ncontrast",
+    "bgcolor":{
+        "master":"#0000ff",
+        "extra":"#ffff00"
+    },
+    "fgcolor":{
+        "master":"#000000",
+        "extra":"#ffffff"
+    },
+    "font":"Arial"
+}
