@@ -1,0 +1,20 @@
+{
+    "title":"x-light",
+    
+    "bg":"#cdcdcd",
+    "col":"#000000",
+    "obj":"#9a9a9a",
+    "obj:hov":"#797979",
+
+    "danger":"#aa0000",
+    "danger:hov":"#660000",
+
+    "warning":"#aaaa00",
+    "warning:hov":"#666600",
+
+    "success":"#00aa00",
+    "success:hov":"#006600",
+
+    "font":"Segoe UI",
+    "code":"Courier"
+}

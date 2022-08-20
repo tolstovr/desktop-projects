@@ -1,0 +1,20 @@
+{
+    "title":"contrast",
+    
+    "bg":"#000000",
+    "col":"#ffffff",
+    "obj":"#0000ff",
+    "obj:hov":"#0000ff",
+
+    "danger":"#ff0000",
+    "danger:hov":"#ff0000",
+
+    "warning":"#ffff00",
+    "warning:hov":"#ffff00",
+
+    "success":"#00ff00",
+    "success:hov":"#00ff00",
+
+    "font":"Fixedsys",
+    "code":"Consolas"
+}

@@ -1,0 +1,20 @@
+{
+    "title":"default",
+    
+    "bg":"#171717",
+    "col":"#ffffff",
+    "obj":"#0f0f0f",
+    "obj:hov":"#050505",
+
+    "danger":"#aa0000",
+    "danger:hov":"#660000",
+
+    "warning":"#aaaa00",
+    "warning:hov":"#666600",
+
+    "success":"#00aa00",
+    "success:hov":"#006600",
+
+    "font":"Segoe UI",
+    "code":"Courier"
+}

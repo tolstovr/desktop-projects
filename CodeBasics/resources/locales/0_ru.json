@@ -1,0 +1,76 @@
+{
+    "title":"русский",
+    "achievements":{
+        "title":"Ачивочки подъехали",
+        "body":"Получено новое достижение",
+        "python_10":"Юный питонёнок",
+        "python_25":"Православный змий",
+        "python_50":"Легче, чем C++",
+        "python_75":"Серебрянный питонёнок",
+        "python_100":"Золотой питонёнок",
+        "python_200":"Платиновый питонёнок",
+        "enters_50":"Каждый день как в первый раз!",
+        "passed_100":"100-й Юбилей!",
+        "passed_200":"Бронзовый программист",
+        "passed_300":"Серебрянный программист",
+        "passed_400":"Золотой программист",
+        "passed_500":"Платиновый программист"
+    },
+    "menu":{
+        "startButton":"Начать",
+        "settingsButton":"Настройки",
+        "statisticsButton":"Статистика",
+        "exitButton":"Выход",
+        "goodmorning":"Доброе утро",
+        "goodevening":"Добрый вечер",
+        "goodnight":"Доброй ночи",
+        "goodafternoon":"Добрый день",
+        "taskLabel":"Текущее задание:\nнабрать {} очков в\nрежиме {}"
+    },
+    "settings":{
+        "titleLabel":"Настройки",
+        "exitButton":"В меню",
+        "themeButton":"Тема",
+        "localeButton":"Язык",
+        "soundLabel":"Звук",
+        "geometryLabel":"Размер",
+        "fullscreenButton":"Полный экран",
+        "topmostButton":"Поверх окон",
+        "forceButton":"Сбросить",
+        "on":"вкл.",
+        "off":"выкл.",
+        "forceAllSettingsAlertTitle":"До заводских настроек...",
+        "forceAllSettingsAlertBody":"Вы действительно хотите сбросить все заданные настройки до базовых?",
+        "forceAllSettingsAlertSuccessTitle":"Упс...",
+        "forceAllSettingsAlertSuccessBody":"Все настройки были успешно сброшены. Удачи!",
+        "veryLowGeometryAlertTitle":"Слишком маленький размер окна",
+        "veryLowGeometryAlertBody":"Вы задали {}x{} для величины окна. Эти значения ниже критических, некоторый контент может отображаться не так, как задумывал разработчик. Продолжая, вы подтверждаете, что находитесь в здравом рассудке!"
+    },
+    "statistics":{
+        "titleLabel":"Статистика",
+        "last":"последний",
+        "best":"лучший",
+        "achievements":"Достижения",
+        "forceAllStatisticsAlertTitle":"-прогресс",
+        "forceAllStatisticsAlertBody":"Вы действительно хотите сбросить все свои достижения и весь свой прогресс без возможности восстановления?",
+        "forceAllStatisticsAlertSuccessTitle":"Упс...",
+        "forceAllStatisticsAlertSuccessBody":"Весь прогресс был успешно сброшен. Удачи!"
+    },
+    "selectlang":{
+        "titleLabel":"Выберите язык программирования",
+        "langNotAllowedAlertTitle":"Напишешь на другом!",
+        "langNotAllowedAlertBody":"К сожалению, данный раздел временно не доступен. Ожидается в следующих обновлениях!"
+    },
+    "main":{
+        "titleLabel":"Что выведет на экран программа?",
+        "sendButton":"Ответить",
+        "exitButton":"Завершить",
+        "currentResultLabel":"Результат",
+        "stopTestAlertTitle":"Завершить прохождение",
+        "stopTestAlertBody":"Вы действительно хотите завершить прохождение? Ваш прогресс будет сохранён в статистику",
+        "resultAlertTitle":"Прохождение завершено",
+        "resultAlertBody":"Ваш результат",
+        "taskPassedAlertTitle":"Задание выполнено!",
+        "taskPassedAlertBody":"Вы выполнили текущее задание!"
+    }
+}

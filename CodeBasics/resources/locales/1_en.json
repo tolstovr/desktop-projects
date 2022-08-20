@@ -1,0 +1,76 @@
+{
+    "title":"english",
+    "achievements":{
+        "title":"It's for you, buddy ;)",
+        "body":"New achievement made",
+        "python_10":"Pynior",
+        "python_25":"Intermediate pythoner",
+        "python_50":"C++ sucks",
+        "python_75":"Silver Python Award",
+        "python_100":"Golden Python Award",
+        "python_200":"Platinum Python Award",
+        "enters_50":"Casually played",
+        "passed_100":"We need to go deeper",
+        "passed_200":"Bronze programmer",
+        "passed_300":"Silver programmer",
+        "passed_400":"Golden programmer",
+        "passed_500":"Platinum and sad programmer"
+    },
+    "menu":{
+        "startButton":"Start",
+        "settingsButton":"Settings",
+        "statisticsButton":"Statistics",
+        "exitButton":"Exit",
+        "goodmorning":"Good morning",
+        "goodevening":"Good evening",
+        "goodnight":"Good night",
+        "goodafternoon":"Good day",
+        "taskLabel":"Curerent task:\npass {} problems in\n{} mode"
+    },
+    "settings":{
+        "titleLabel":"Settings",
+        "exitButton":"Back",
+        "themeButton":"Theme",
+        "localeButton":"Language",
+        "soundLabel":"Sound",
+        "geometryLabel":"Size",
+        "fullscreenButton":"Fullscreen",
+        "topmostButton":"On top",
+        "forceButton":"Reset all",
+        "on":"on",
+        "off":"off",
+        "forceAllSettingsAlertTitle":"Back to start...",
+        "forceAllSettingsAlertBody":"Do you really want to reset all settings to defaults?",
+        "forceAllSettingsAlertSuccessTitle":"Oops...",
+        "forceAllSettingsAlertSuccessBody":"All settings have been successfully reset. Good luck!",
+        "veryLowGeometryAlertTitle":"Too low value for window geometry",
+        "veryLowGeometryAlertBody":"You have set {}x{} for the window size. These values are below the critical ones, some content may not be displayed the way the developer intended. By continuing, you confirm that you aren't crazy!"
+    },
+    "statistics":{
+        "titleLabel":"Statistics",
+        "last":"last",
+        "best":"best",
+        "achievements":"Achievements",
+        "forceAllStatisticsAlertTitle":"bye progress :(",
+        "forceAllStatisticsAlertBody":"Do you really want to reset all your achievements and all your progress beyond the possibility of recovery?",
+        "forceAllStatisticsAlertSuccessTitle":"Oops...",
+        "forceAllStatisticsAlertSuccessBody":"All progress has been successfully reset. Good luck!"
+    },
+    "selectlang":{
+        "titleLabel":"Choose programming language",
+        "langNotAllowedAlertTitle":"IMPOSSIBLE!",
+        "langNotAllowedAlertBody":"Unfortunately, this section is temporarily unavailable. Expected in the next updates!"
+    },
+    "main":{
+        "titleLabel":"What will the program display?",
+        "sendButton":"Send",
+        "exitButton":"Stop",
+        "currentResultLabel":"Result",
+        "stopTestAlertTitle":"Break the test",
+        "stopTestAlertBody":"Do you really want to complete the walkthrough? Your progress will be saved in statistics",
+        "resultAlertTitle":"Test passed",
+        "resultAlertBody":"Your result",
+        "taskPassedAlertTitle":"Task passed!",
+        "taskPassedAlertBody":"You passed your task!"
+    }
+}
